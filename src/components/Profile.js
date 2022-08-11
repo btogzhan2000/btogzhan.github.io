@@ -83,7 +83,7 @@ function Profile() {
             }}
           >
             I’m a first-year PhD student at Hong Kong University of Science and
-            Technology and a HKPFS awardee.
+            Technology and an HKPFS awardee. I work under the supervision of Prof. <a href="https://www.goharshady.com/home">Amir Goharshady</a>.
           </Typography>
           <div
             style={{
