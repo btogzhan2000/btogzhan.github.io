@@ -42,7 +42,7 @@ function Profile() {
         >
           <Avatar
             alt="profile-photo"
-            src="photo.jpg"
+            src="photo.JPG"
             sx={{
               width: 149,
               height: 149,
